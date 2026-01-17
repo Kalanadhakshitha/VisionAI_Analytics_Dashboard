@@ -33,9 +33,8 @@ VisionAI is a professional-grade web application built with **Python** and **Str
 
 ## 📸 Screenshots
 
-> _Add your project screenshots here to showcase the stunning Blueprint UI!_
+<img width="1898" height="820" alt="VisionAI" src="https://github.com/user-attachments/assets/efcd1c55-de0f-452d-bf5c-83e55d65330a" />
 
----
 
 ## 🚀 Getting Started
 
